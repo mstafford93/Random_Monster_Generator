@@ -3,7 +3,7 @@ function getRandomNumber(num){
 }
 
 const monsterVariables = {
-    type: ['fire', 'ground', 'water', 'grass'],
+    type: ['fire', 'ground', 'water', 'grass', 'electric', 'dark'],
     rarity: ['common', 'uncommon', 'rare'],
     level: ['1', '5', '10']
 }
